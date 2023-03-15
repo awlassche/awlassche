@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there! 👋 I am a PhD candidate in Dutch History at Leiden University, researching changes in the early modern information landscape.
+
+You can follow me on [Twitter]{https://twitter.com/AWLassche} and [Mastodon]{https://akademienl.social/@alielassche}. I can be reached on a.w.lassche@hum.leidenuniv.nl.
+
 
 <!--
 **awlassche/awlassche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
