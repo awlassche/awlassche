@@ -1,4 +1,4 @@
-Hi there! 👋 I am a PhD candidate in Dutch History at Leiden University, researching changes in the early modern information landscape.
+Hi there! 👋 I am a PhD candidate in Dutch History at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/alie-lassche#tab-1), researching changes in the early modern information landscape of Dutch chroniclers within the project [Chronicling Novelty. New knowledge in the Netherlands, 1500-1850](www.chroniclingnovelty.com). 
 
 You can follow me on [Twitter](https://twitter.com/AWLassche) and [Mastodon](https://akademienl.social/@alielassche). I can be reached on a.w.lassche@hum.leidenuniv.nl.
 
