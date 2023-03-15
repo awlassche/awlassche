@@ -1,6 +1,6 @@
 Hi there! 👋 I am a PhD candidate in Dutch History at Leiden University, researching changes in the early modern information landscape.
 
-You can follow me on [Twitter]{https://twitter.com/AWLassche} and [Mastodon]{https://akademienl.social/@alielassche}. I can be reached on a.w.lassche@hum.leidenuniv.nl.
+You can follow me on [Twitter](https://twitter.com/AWLassche) and [Mastodon](https://akademienl.social/@alielassche). I can be reached on a.w.lassche@hum.leidenuniv.nl.
 
 
 <!--
