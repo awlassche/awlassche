@@ -1,6 +1,6 @@
-Hi there! 👋 I am a PhD candidate in Dutch History at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/alie-lassche#tab-1), researching changes in the early modern information landscape of Dutch chroniclers within the project [Chronicling Novelty. New knowledge in the Netherlands, 1500-1850](www.chroniclingnovelty.com). 
+Hi there! 👋 I am a postdoctoral researcher at the Center for Humanities Computing at [Aarhus University](https://www.au.dk/en/a.w.lassche@cas.au.dk).
 
-You can follow me on [Twitter](https://twitter.com/AWLassche) and [Mastodon](https://akademienl.social/@alielassche). I can be reached on a.w.lassche@hum.leidenuniv.nl.
+You can follow me on [Twitter](https://twitter.com/AWLassche) and [Mastodon](https://akademienl.social/@alielassche). I can be reached on a.w.lassche@cas.au.dk.
 
 
 <!--
