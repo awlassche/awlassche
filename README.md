@@ -1,6 +1,6 @@
 Hi there! 👋 I am a postdoctoral researcher at the Center for Humanities Computing at [Aarhus University](https://www.au.dk/en/a.w.lassche@cas.au.dk).
 
-You can follow me on [Twitter](https://twitter.com/AWLassche) and [Mastodon](https://akademienl.social/@alielassche). I can be reached on a.w.lassche@cas.au.dk.
+You can follow me on [BlueSky](https://bsky.app/profile/alielassche.bsky.social) and [LinkedIn](https://www.linkedin.com/in/alie-lassche-13a4003a/). I can be reached on a.w.lassche@cas.au.dk.
 
 
 <!--
