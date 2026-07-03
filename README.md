@@ -1,6 +1,6 @@
 Hi there! 👋 I am an NWO Rubicon postdoctoral fellow at the Antwerp Center for Digital Humanities and Literary Criticism (ACDC) at the [University of Antwerp](https://www.uantwerpen.be/en/staff/alie-lassche_29627/).
 
-You can follow me on [BlueSky](https://bsky.app/profile/alielassche.bsky.social) and [LinkedIn](https://www.linkedin.com/in/alie-lassche-13a4003a/). I can be reached on alie.lassche@uantwerpen.be.
+You can follow me on [BlueSky](https://bsky.app/profile/alielassche.bsky.social) and [LinkedIn](https://www.linkedin.com/in/alie-lassche-13a4003a/). I can be reached on alie@alielassche.com. For more information, see my [personal website](https://www.alielassche.com).
 
 
 <!--
